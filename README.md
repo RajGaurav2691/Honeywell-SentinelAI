@@ -325,12 +325,12 @@ streamlit run dashboard.py
 
 | View | Preview |
 |---|---|
-| **Dashboard (Overview)** | ![Dashboard Overview](assets/screenshots/dashboard_overview.png) |
-| **Threat Analytics** | ![Threat Analytics](assets/screenshots/threat_analytics.png) |
-| **Risk Explorer** | ![Risk Explorer](assets/screenshots/risk_explorer.png) |
-| **Daily Heatmap** | ![Daily Heatmap](assets/screenshots/daily_heatmap.png) |
-| **Threat Table** | ![Threat Table](assets/screenshots/threat_table.png) |
-| **Executive Summary** | ![Executive Summary](assets/screenshots/executive_summary.png) |
+| **Dashboard (Overview)** | ![Dashboard Overview](assests\screenshorts\01_dashboard_overview.png) |
+| **Threat Analytics** | ![Threat Analytics](aassests\screenshorts\02_threat_analytics.png) |
+| **Risk Explorer** | ![Risk Explorer](assests\screenshorts\03_risk_explorer.jpg) |
+| **Filter Demo** | ![Filter Demo](assests\screenshorts\04_filters_demo.png.png) |
+| **Anomaly Details** | ![Anomaly Details](assests\screenshorts\06_anomaly_details.png) |
+| **Executive Summary** | ![Executive Summary](assests\screenshorts\05_executive_summary.png) |
 
 ---
 
