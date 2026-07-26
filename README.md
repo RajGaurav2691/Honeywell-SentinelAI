@@ -386,12 +386,11 @@ In short: you are free to use, copy, modify, merge, publish, distribute, and sub
 ---
 
 ## 📬 Contact
-
 | Platform | Link |
-|---|---|
-| 💻 **GitHub** | [github.com/\<your-username\>](https://github.com/<your-username>) |
-| 💼 **LinkedIn** | [linkedin.com/in/\<your-profile\>](https://linkedin.com/in/<your-profile>) |
-| 📧 **Email** | \<your-email\>@example.com |
+|----------|------|
+| 💻 **GitHub** | [RajGaurav2691](https://github.com/RajGaurav2691) |
+| 💼 **LinkedIn** | [Raj Gaurav](https://www.linkedin.com/in/raj-gaurav-42124628a/) |
+| 📧 **Email** | [rajgaura327@gmail.com](mailto:rajgaura327@gmail.com) |
 
 ---
 
