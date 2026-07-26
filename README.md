@@ -37,7 +37,7 @@ Built for the **Honeywell Hackathon** 🏆
 9. [Dashboard Features](#-dashboard-features)
 10. [Installation](#-installation)
 11. [Usage](#-usage)
-12. [Screenshots](#-screenshots)
+12. [screenshorts](#-screenshorts)
 13. [Future Improvements](#-future-improvements)
 14. [Team](#-team)
 15. [License](#-license)
@@ -183,7 +183,7 @@ Honeywell-SentinelAI/
 ├── dashboard.py            # Streamlit SOC dashboard (visualization only)
 ├── requirements.txt        # Python dependencies
 ├── README.md                # You are here
-├── assets/                 # Screenshots, logos, and static images
+├── assets/                 # screenshorts, logos, and static images
 └── reports/                # Exported CSV reports and analysis artifacts
 ```
 
@@ -194,7 +194,7 @@ Honeywell-SentinelAI/
 | `models/` | Stores every trained artifact needed to reproduce or serve predictions without retraining. |
 | `src/` | Houses the core pipeline scripts: generation, training, and shared utilities. |
 | `dashboard.py` | The single entry point for the analyst-facing web application. |
-| `assets/` | Static assets used in documentation, including `assets/screenshots/`. |
+| `assets/` | Static assets used in documentation, including `assets/screenshorts/`. |
 | `reports/` | Destination for exported CSVs and generated summaries. |
 
 ---
@@ -318,20 +318,18 @@ streamlit run dashboard.py
 
 ---
 
-## 🖼️ Screenshots
+## 📸 screenshorts
 
-> [!TIP]
-> All screenshots should be stored inside `assets/screenshots/` and referenced with relative paths, as below.
+> All screenshorts are stored inside `assets/screenshorts/`.
 
 | View | Preview |
-|---|---|
-| **Dashboard (Overview)** | ![Dashboard Overview](assests\screenshorts\01_dashboard_overview.png) |
-| **Threat Analytics** | ![Threat Analytics](aassests\screenshorts\02_threat_analytics.png) |
-| **Risk Explorer** | ![Risk Explorer](assests\screenshorts\03_risk_explorer.jpg) |
-| **Filter Demo** | ![Filter Demo](assests\screenshorts\04_filters_demo.png.png) |
-| **Anomaly Details** | ![Anomaly Details](assests\screenshorts\06_anomaly_details.png) |
-| **Executive Summary** | ![Executive Summary](assests\screenshorts\05_executive_summary.png) |
-
+|------|---------|
+| **Dashboard Overview** | <img src="assets/screenshorts/01_dashboard_overview.png" alt="Dashboard Overview" width="800"/> |
+| **Threat Analytics** | <img src="assets/screenshorts/02_threat_analytics.png" alt="Threat Analytics" width="800"/> |
+| **Risk Explorer** | <img src="assets/screenshorts/03_risk_explorer.jpg" alt="Risk Explorer" width="800"/> |
+| **Filter Demo** | <img src="assets/screenshorts/04_filters_demo.png" alt="Filter Demo" width="800"/> |
+| **Executive Summary** | <img src="assets/screenshorts/05_executive_summary.png" alt="Executive Summary" width="800"/> |
+| **Anomaly Details** | <img src="assets/screenshorts/06_anomaly_details.png" alt="Anomaly Details" width="800"/> |
 ---
 
 ## 🗺️ Future Improvements
